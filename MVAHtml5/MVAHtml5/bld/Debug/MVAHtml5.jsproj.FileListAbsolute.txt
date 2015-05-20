@@ -1,0 +1,15 @@
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bin\Debug\ReverseMap\resources.pri
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bin\Debug\AppxManifest.xml
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bin\Debug\MVAHtml5.build.appxrecipe
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\priconfig.xml
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\priconfig.xml.intermediate
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\layout.resfiles
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\layout.resfiles.intermediate
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\resources.resfiles
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\resources.resfiles.intermediate
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\pri.resfiles
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\pri.resfiles.intermediate
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\qualifiers.txt
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\qualifiers.txt.intermediate
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\System32\Programa_S2B\MVAHtml5\MVAHtml5\bld\Debug\ProjectArchitectures.txt

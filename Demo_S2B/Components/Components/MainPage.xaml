@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="Components.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Components"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Left" Height="450" Margin="264,200,0,0" VerticalAlignment="Top" Width="866">
+            <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Componentes Basicos" FontSize="48"/>
+            <TextBox x:Name="txtEntrada_Texto" TextWrapping="Wrap" Text="" Width="500"/>
+            <Button x:Name="btn_Clica" Content="Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" RequestedTheme="Light" Width="100" Canvas.ZIndex="10"/>
+            <DatePicker x:Name="dt" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FontSize="24" YearFormat="{}{year.full}" Width="400" Height="32" RequestedTheme="Light"/>
+            <ComboBox x:Name="cbEscolhas" Width="250" Height="35" SelectedIndex="0" Margin="308,0">
+                <ComboBoxItem Content="Escolha uma opção!"/>
+                <ComboBoxItem Content="Vectra"/>
+                <ComboBoxItem Content="Mitsubiche Lancer"/>
+                <ComboBoxItem Content="Corsa"/>
+                <ComboBoxItem Content="Palio"/>
+                <ComboBoxItem Content="Gol"/>
+            </ComboBox>
+            <RadioButton x:Name="brTeste1" Content="1.0" VerticalAlignment="Stretch" Margin="4,0,-4,0"/>
+            <RadioButton x:Name="rbTeste2" Content="1.6" VerticalAlignment="Stretch" Margin="4,0,-4,0"/>
+            <RadioButton x:Name="rbTeste3" Content="2.2" VerticalAlignment="Stretch" Margin="4,0,-4,0"/>
+            <CheckBox x:Name="cbTeste1" Content="Prata" VerticalAlignment="Stretch"/>
+            <CheckBox x:Name="cbTeste2" Content="Preto" VerticalAlignment="Stretch"/>
+            <CheckBox x:Name="cbTeste3" Content="Branco" VerticalAlignment="Stretch"/>
+        </StackPanel>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="56,46,0,0" TextWrapping="Wrap" Text="Tela de Componentes" VerticalAlignment="Top" FontSize="80"/>
+
+    </Grid>
+</Page>
